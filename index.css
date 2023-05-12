@@ -1,0 +1,14 @@
+#head{
+    text-align: center;
+    color: darkblue;
+    font-size: 50px;
+}
+#wapper{
+    display: flex;
+    justify-content: center;
+}
+#button{
+    background-color: brown;
+    font-size: x-large;
+
+}
